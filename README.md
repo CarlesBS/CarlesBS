@@ -1,4 +1,4 @@
-## ¡Hola! 👋 Soy Carles
+## ¡Hola! Soy Carles 👋
 
 🚀 __Ingeniero en Electrónica Industrial y Automática__ 🔋
 
