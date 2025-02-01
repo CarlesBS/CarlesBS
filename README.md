@@ -2,7 +2,7 @@
 
 🚀 __Ingeniero en Electrónica Industrial y Automática__ 🔋
 
-🛠️ Me apasiona la __automatización__, la __visión artificial__ y la __programación industrial__ 💻
+🛠️ Me apasiona la __automatización__, el __control industrial__, la __visión artificial__ y la __programación industrial__ 💻
 
 💡 Siempre __aprendiendo__ y con ganas de __demostrar mis habilidades__ 💪
 
