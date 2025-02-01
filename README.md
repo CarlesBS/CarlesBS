@@ -1,16 +1,15 @@
-## Hi there 👋
+## ¡Hola! 👋 Soy Carles
 
-<!--
-**CarlesBS/CarlesBS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 __Ingeniero en Electrónica Industrial y Automática__ 🔋
 
-Here are some ideas to get you started:
+🛠️ Me apasiona la __automatización__, la __visión artificial__ y la __programación industrial__ 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Siempre __aprendiendo__ y con ganas de __demostrar mis habilidades__ 💪
+
+🤖 __Lenguajes:__ C/C++, MATLAB y Ladder ⚙️
+
+📚 __Abierto a nuevos retos:__ Siempre dispuesto a aprender nuevos lenguajes y programas, así como a explorar distintos ámbitos industriales 🔧
+
+🌍 __Idiomas:__ Inglés, Español y Valenciano 🗣️
+
+📫 __Contáctame:__ [📧 Mi correo](mailto:carlesbatallersebastia@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/carles-bataller) 📫
